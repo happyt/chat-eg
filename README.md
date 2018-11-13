@@ -1,4 +1,10 @@
 # chat-example
+Initial siple chat as below
+Added different types of message to test vue
+Start/stop time pulse
+
+
+===
 
 This is the source code for a very simple chat example used for
 the [Getting Started](http://socket.io/get-started/chat/) guide
